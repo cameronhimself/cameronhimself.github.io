@@ -1,0 +1,44 @@
+/* === Oswald - regular */
+@font-face {
+	font-family: 'Oswald';
+	font-style: normal;
+	font-weight: 400;
+	src: url("./font/Oswald-Regular.eot");
+	src: local("Oswald Regular"),
+		local("Oswald-Regular"),
+		url("./font/Oswald-Regular.eot") format("embedded-opentype"),
+		url("./font/Oswald-Regular.woff2") format("woff2"),
+		url("./font/Oswald-Regular.woff") format("woff"),
+		url("./font/Oswald-Regular.ttf") format("truetype"),
+		url("./font/Oswald-Regular.svg") format("svg");
+}
+
+/* === Pirata One - regular */
+@font-face {
+	font-family: 'Pirata One';
+	font-style: normal;
+	font-weight: 400;
+	src: url("./font/PirataOne-Regular.eot");
+	src: local("Pirata One"),
+		local("PirataOne-Regular"),
+		url("./font/PirataOne-Regular.eot") format("embedded-opentype"),
+		url("./font/PirataOne-Regular.woff2") format("woff2"),
+		url("./font/PirataOne-Regular.woff") format("woff"),
+		url("./font/PirataOne-Regular.ttf") format("truetype"),
+		url("./font/PirataOne-Regular.svg") format("svg");
+}
+
+/* === PT Mono - regular */
+@font-face {
+	font-family: 'PT Mono';
+	font-style: normal;
+	font-weight: 400;
+	src: url("./font/PtMono-Regular.eot");
+	src: local("PT Mono"),
+		local("PTMono-Regular"),
+		url("./font/PtMono-Regular.eot") format("embedded-opentype"),
+		url("./font/PtMono-Regular.woff2") format("woff2"),
+		url("./font/PtMono-Regular.woff") format("woff"),
+		url("./font/PtMono-Regular.ttf") format("truetype"),
+		url("./font/PtMono-Regular.svg") format("svg");
+}
